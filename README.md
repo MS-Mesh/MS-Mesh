@@ -1,76 +1,74 @@
 <div align="center">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D700%26size%3D34%26pause%3D1000%26color%3D20C20E%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26height%3D70%26lines%3DHello%2BWorld,%2BI%27m%2BMesh794!%3BCS%2BStudent%2B%40%2BUni%2Bof%2BNottingham%3BPython,%2BC,%2B%2526%2BAssembly%2BSpecialist%3BCompetitive%2BProgramming%2BEnthusiast%3BBuilding%2BAutonomous%2BAgents" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Alegreya&weight=700&size=35&duration=4000&pause=500&color=9402F7&background=FFFFFF00&center=true&vCenter=true&lines=Hello+World%2C+I'm+Yaroslav!;Coding+is+my+passion;I+am+trying+my+best" />
 </div>
 
 <div align="center">
-<h3> Aspiring First-Class Honours CS Student and Developer</h3>
+  <h3>Aspiring First-Class Honours Computer Science Student</h3>
+  <a href="https://github.com/MS-Mesh">
+    <img src="https://img.shields.io/github/followers/MS-Mesh?label=Followers&style=social" />
+  </a>
+  <a href="https://github.com/MS-Mesh">
+    <img src="https://img.shields.io/github/stars/MS-Mesh?style=social" />
+  </a>
 </div>
 
-<div align="center">
-<a href="https://www.google.com/search?q=https://github.com/Mesh794">
-<img src="https://www.google.com/search?q=https://img.shields.io/github/followers/Mesh794%3Flabel%3DFollowers%26style%3Dsocial" />
-</a>
-<a href="https://www.google.com/search?q=https://github.com/Mesh794">
-<img src="https://www.google.com/search?q=https://img.shields.io/github/stars/Mesh794%3Fstyle%3Dsocial" />
-</a>
-</div>
+### 👨‍💻 About Me
 
-👨‍💻 About Me
+I am a **Computer Science** student at the **University of Nottingham**, aiming for First-Class Honours, with a strong academic foundation from **Bedford Greenacre Independent School**. I don't just write code, I am deeply passionate about understanding the full stack of computing—from the low-level memory management to the high-level abstract reasoning.
 
-I am a 1st Year Computer Science student at the University of Nottingham, aiming for First-Class Honours, with a strong foundation from Bedford Greenacre Independent School. I am deeply passionate about the low-level mechanics of how computers think (Assembly/C) and the high-level logic of how AI reasons (Agents/ML).
+* 🎓 **Studies:** Currently studying Computer Science at the [University of Nottingham](https://www.nottingham.ac.uk/). Alumni of [Bedford Greenacre Independent School](https://bedfordgreenacre.co.uk/).
+* 🛠️ **Environment:** Experienced working in **VS Code**, **PyCharm**, and **Linux** environments.
 
-🔭 Education: Currently studying Computer Science at UoN.
+<br clear="all" />
 
-🧠 Interests: Competitive Programming, Algorithms, Mathematics, and Machine Learning.
+### 🧠 Interests & Hobbies
 
-🤖 Hardware: I love tinkering with Arduino Uno for physical computing projects.
+* **Competitive Programming:** I love solving complex algorithmic challenges and optimizing code efficiency.
+* **Algorithms:** Deep interest in data structures and algorithmic complexity.
+* **Mathematics & ML:** Exploring the mathematical foundations of Machine Learning and AI.
+* **Hardware:** Tinkering with Arduino Uno via physical computing as well as web interfaces on Kaggle.
+* **Deep Dive:** I can work with various interpreters like Cython and PyPy to optimize performance and low-level languages.
 
-⚡ Fun Fact: I don't just write Python, I dive deep into interpreters like CPython and PyPy to optimize performance.
+### 🛠️ The Arsenal (Tech Stack)
 
-🛠️ The Arsenal (Tech Stack)
+#### ⚡ Core Proficiencies
 
-<div align="center">
+| Tech | Description |
+| :--- | :--- |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> | My primary language. I work across different environments (**Anaconda**, **Jupyter**) and explore interpreters like **CPython** and **PyPy**. |
+| <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" /> | Used for system-level programming and understanding memory management/pointers as well as building complex apps using **raylib**, **cJson**. |
+| <img src="https://img.shields.io/badge/Assembly_(x86)-000000?style=for-the-badge&logo=intel&logoColor=white" /> | I write **ARM Assembly** to understand exactly how the CPU executes instructions and manages registers. |
 
-<h4>⚡ Core Proficiencies</h4>
-<a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,c,bash%26theme%3Ddark" />
-</a>
-<!-- Custom Badge for Assembly since it lacks a standard icon -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Assembly_x86-000000%3Fstyle%3Dfor-the-badge%26logo%3Dintel%26logoColor%3Dwhite" height="40" />
+#### 📚 Familiar Languages
 
+| Tech | Description |
+| :--- | :--- |
+| <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> | Experience with Object-Oriented Programming and game logic. |
+| <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> | Used for .NET applications and Windows development. |
+| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> | Used for adding interactivity to frontend projects. |
+| <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> | Used for structuring and styling web interfaces. |
 
-<h4>📚 Familiar With</h4>
-<a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dcpp,cs,js,html,css%26theme%3Ddark" />
-</a>
+#### 🧠 AI, Data Science & Ecosystem
 
+| Tech | Description |
+| :--- | :--- |
+| <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" /> | My preferred distribution for managing data science libraries and environments. |
+| <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /> | Used for rapid prototyping, data visualization, and Kaggle competitions. |
+| <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> | Experience building Neural Networks and Deep Learning models. |
+| <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> | Used for classical Machine Learning algorithms (Regression, Clustering, Classification). |
 
-<h4>🐍 Python Ecosystem & Data Science</h4>
-<a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Danaconda,pytorch,sklearn%26theme%3Ddark" />
-</a>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Jupyter-F37626%3Fstyle%3Dfor-the-badge%26logo%3Djupyter%26logoColor%3Dwhite" height="40" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/PyPy-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" height="40" />
+#### ⚙️ Development Environment
 
-
-<h4>⚙️ IDEs & Tools</h4>
-<a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dvscode,pycharm,linux,git,github,arduino,docker%26theme%3Ddark" />
-</a>
-
-</div>
-
-📊 GitHub Stats
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DMesh794%26show_icons%3Dtrue%26theme%3Dtransparent%26hide_border%3Dtrue%26title_color%3D20C20E%26text_color%3Dffffff%26icon_color%3D20C20E" height="150" alt="stats graph"  />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DMesh794%26layout%3Dcompact%26theme%3Dtransparent%26hide_border%3Dtrue%26title_color%3D20C20E%26text_color%3Dffffff" height="150" alt="languages graph" />
-</div>
-
-<!-- SNAKE ANIMATION -->
-
-<!-- This will appear automatically once the GitHub Action runs -->
+| Tech | Description |
+| :--- | :--- |
+| <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> | My main editor, heavily customized with extensions for Python and C. |
+| <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" /> | Used for large-scale Python projects requiring strict type checking and refactoring tools. |
+| <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> | I am comfortable navigating the terminal, writing Bash scripts, and managing packages. |
+| <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> | Used for version control, branching strategies, and collaboration. |
+| <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" /> | Used for embedded systems programming and hardware control. |
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://github.com/Mesh794/Mesh794/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MS-Mesh&layout=compact&theme=transparent&hide_border=true&title_color=20C20E&text_color=ffffff" height="150" alt="languages graph" />
+  <br/>
+  <img src="https://github.com/MS-Mesh/MS-Mesh/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
 </div>
