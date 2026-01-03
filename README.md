@@ -68,7 +68,6 @@ I am a **Computer Science** student at the **University of Nottingham**, aiming 
 | <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" /> | Used for embedded systems programming and hardware control. |
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MS-Mesh&layout=compact&theme=transparent&hide_border=true&title_color=20C20E&text_color=ffffff" height="150" alt="languages graph" />
-  <br/>
-  <img src="https://github.com/MS-Mesh/MS-Mesh/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DMS-Mesh%26layout%3Dcompact%26theme%3Dtransparent%26hide_border%3Dtrue%26title_color%3D9402F7%26text_color%3Dffffff" height="150" alt="languages graph" />
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/MS-Mesh/MS-Mesh/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
 </div>
