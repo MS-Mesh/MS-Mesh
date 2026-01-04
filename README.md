@@ -66,3 +66,9 @@ I am a **Computer Science** student at the **University of Nottingham**, aiming 
 | <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> | I am comfortable navigating the terminal, writing Bash scripts, and managing packages. |
 | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> | Used for version control, branching strategies, and collaboration. |
 | <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" /> | Used for embedded systems programming and hardware control. |
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MS-Mesh/MS-Mesh/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MS-Mesh/MS-Mesh/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MS-Mesh/MS-Mesh/output/github-contribution-grid-snake.svg">
+</picture>
